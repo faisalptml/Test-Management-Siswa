@@ -7,7 +7,7 @@ class ProfilController extends Controller
     protected array $candidate = [
         'name' => 'Paisal Patmal',
         'position' => 'IT Specialist',
-        'photo' => '/Image/profile.png',
+        'photo' => '/images/profile.png',
     ];
 
     public function index()
